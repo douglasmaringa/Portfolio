@@ -11,6 +11,18 @@ let project_list = [
 			github: 'https://github.com/douglasmaringa/Amazon-clone'
 		}
 	},
+	{  /* -------------------------------- */
+		image:
+			'https://project-images.gitconnectedcontent.com/e07adb1d-001a-411b-8c70-23eb03616249-desktop',
+		title: 'zimbabwe-bank-locator',
+		des:
+			"A web-app that allows you to search the location of banks in zimbabwe",
+		tags: [ 'CSS', 'React', 'JavaScript' ],
+		links: {
+			launch: 'https://nervous-snyder-3033dd.netlify.app/',
+			github: 'https://github.com/douglasmaringa/zimbabwe-bank-locator-frontend'
+		}
+	},
 	{
 		image:
 			'https://project-images.gitconnectedcontent.com/1c439721-9d47-4304-8929-aa341e4ffc89-desktop',
