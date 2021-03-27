@@ -24,10 +24,10 @@ const AboutMe = () => {
         <img src={portfolio1} alt="profile_photo" className="img" />
         <h1>Douglas Maringa</h1>
         <div className="subtitle">
-          <h3>I am a Front end web developer. I give life to designs</h3>
+          <h3>FullStack Web Developer. Android ios Developer. UI/UX Designer</h3>
           <p>
-            Creating Beautiful things with quality and elegance! <br />
-            Experienced in Javascript and c#. My favourite technology is
+           I Do My Best to Create Beautiful things with quality and elegance! <br />
+            Experienced in Javascript,Reactjs , React Native and C#. My favourite technology is
             ReactJS
           </p>
         </div>
