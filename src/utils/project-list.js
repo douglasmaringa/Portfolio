@@ -1,6 +1,30 @@
 let project_list = [
 	{
 		image:
+			'https://i.ibb.co/vxhzcnR/Whats-App-Image-2021-03-27-at-3-00-56-PM-1.jpg',
+		title: 'Android, ios Shop',
+		des:
+			"Android ios Shopping App for users to buy clothes straight from their phone and have them delivered to their door step",
+		tags: [ 'React Native', 'Firebase', 'JavaScript' ],
+		links: {
+			launch: 'https://github.com/douglasmaringa/Android-Shop',
+			github: 'https://github.com/douglasmaringa/Android-Shop'
+		}
+	},
+	{
+		image:
+			'https://i.ibb.co/N1CkyhM/Whats-App-Image-2021-03-17-at-6-54-30-PM-2.jpg',
+		title: 'Food Ordering android, ios app',
+		des:
+			"React Native Food Ordering App for Android and ios.",
+		tags: [ 'React Native','Redux', 'Firebase', 'JavaScript' ],
+		links: {
+			launch: 'https://github.com/douglasmaringa/Food-Ordering-App',
+			github: 'https://github.com/douglasmaringa/Food-Ordering-App'
+		}
+	},
+	{
+		image:
 			'https://project-images.gitconnectedcontent.com/f9f12c92-47a8-429d-88e6-94bc1a4017de-desktop',
 		title: 'Amazon Clone',
 		des:
@@ -49,18 +73,6 @@ let project_list = [
 	},
 	{/* -------------------------------- */
 		image:
-			'https://project-images.gitconnectedcontent.com/d7b3b0f3-116b-4889-93e5-69047268eaef-desktop',
-		title: 'Blog',
-		des:
-			"Blog made with react has ability to post and render blogs in a nice component you post by typing a code which initializes the post form. The code is 1234.",
-		tags: [ 'HTML', 'CSS', 'JavaScript', 'React js' ],
-		links: {
-			launch: 'https://image-330a5.web.app/',
-			github: 'https://github.com/douglasmaringa/React-Blog'
-		}
-	},
-	{/* -------------------------------- */
-		image:
 			'https://project-images.gitconnectedcontent.com/2a09beef-c266-4c68-97d9-d7049b6dbd92-desktop',
 		title: 'Netflix Trailer App',
 		des:
@@ -69,18 +81,6 @@ let project_list = [
 		links: {
 			launch: 'https://netflix-clone-d66da.web.app/',
 			github: 'https://github.com/douglasmaringa/Netflix-clone'
-		}
-	},
-	{/* -------------------------------- */
-		image:
-			'https://camo.githubusercontent.com/945ac4c3acb1ecef2c844369c9188c7eca5b827d/68747470733a2f2f692e636c6f756475702e636f6d2f444363424735387159762e706e67',
-		title: 'React To-do app',
-		des:
-			"To-do app built using react and firebase.",
-		tags: ['HTML', 'CSS', 'JavaScript','React' ],
-		links: {
-			launch: 'https://modest-payne-933d3e.netlify.app/',
-			github: 'https://github.com/douglasmaringa/React-Todo-App-'
 		}
 	}
 ];
