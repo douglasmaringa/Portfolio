@@ -37,6 +37,18 @@ let project_list = [
 	},
 	{  /* -------------------------------- */
 		image:
+			'https://i.ibb.co/TYt58nv/Capture.png',
+		title: 'Soundwave Design Concept',
+		des:
+			"A UI/UX design of a music streaming web application made using figma and then converted to html and css.",
+		tags: [  'FIGMA','HTML','CSS' ],
+		links: {
+			launch: 'https://github.com/douglasmaringa',
+			github: 'https://github.com/douglasmaringa'
+		}
+	},
+	{  /* -------------------------------- */
+		image:
 			'https://project-images.gitconnectedcontent.com/e07adb1d-001a-411b-8c70-23eb03616249-desktop',
 		title: 'zimbabwe-bank-locator',
 		des:
